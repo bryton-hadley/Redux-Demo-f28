@@ -8,9 +8,9 @@ export const potentialCountriesSlice = createSlice({
             {
                 name: {
                     common: "America",
-                }
-            }
-        ]
+                },
+            },
+        ],
      },
      reducers: {
         setPotentialCountries: (state, action) => {
